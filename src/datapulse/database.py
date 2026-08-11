@@ -5,7 +5,6 @@ from pathlib import Path
 
 import pandas as pd
 
-
 DEFAULT_DB_PATH = Path("database") / "datapulse.db"
 
 

@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import pandas as pd
 
-
 REQUIRED_COLUMNS = {
     "event_id",
     "event_time",

@@ -6,7 +6,6 @@ from typing import Any
 import pandas as pd
 import requests
 
-
 USGS_API_URL = "https://earthquake.usgs.gov/fdsnws/event/1/query"
 
 

@@ -7,7 +7,6 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-
 DB_PATH = Path("database") / "datapulse.db"
 
 
