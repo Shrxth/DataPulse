@@ -40,8 +40,8 @@ jobs:
 
       - name: Commit generated results
         run: |
-          git config user.name "DataPulse Bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Shrxth"
+          git config user.email "157647922+Shrxth@users.noreply.github.com"
 
           git add reports/ database/
 
